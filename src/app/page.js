@@ -14,7 +14,7 @@ export default function Home() {
         </button>
       </Link>
 
-      <Link href="/snake-game">
+      <Link href="/sneake-game">
         <button className="px-8 py-4 bg-white text-green-600 font-bold rounded-2xl shadow-lg 
                            hover:bg-green-100 transition transform hover:scale-105">
           Yılan Oyunu
